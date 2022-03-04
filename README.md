@@ -2,10 +2,8 @@
   ## Table of Contents
   * [Project Description](#project-description)
   * [Installation](#installation)
-  * [Usage](#usage)
   * [License](#license)
   * [Contributing](#contributing)
-  * [Demo Video](#Project-Demo-Video)
   * [Questions?](#questions)
   ## Project Description
   Create an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
